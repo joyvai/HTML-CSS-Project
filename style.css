@@ -1,0 +1,100 @@
+img {	
+	height: 235px;
+	width: 225px;
+	border: 2px solid black;
+	margin:30px 50px;
+	float: right;
+}
+#footer {
+	text-align: center;
+	font-family: verdana,sans-serif,Arial;
+	font-size: 1.1em;
+	color:rgb(255,255,255);
+}
+
+#content {
+	margin: 30px 50px;
+	padding:0 10%;
+}
+ 	
+body {
+	font-family: 'Bitstream Charter';
+	background: purple; 
+}
+#intro {
+	font-size: 1.2em;
+	border:10px solid grey;
+	margin : 40px 30px;
+	padding: 20px 30px;
+	display: block;
+	line-height: 30px;
+	background-color: rgb(255,255,255);
+
+}
+#intro h1 {
+	color:#6A94CC;
+}
+a {
+	list-style: none;
+	text-decoration: none;
+	color: red;
+}
+#education {
+	border:3px solid rgb(75,75,75);
+	box-shadow: 0 0 15px 5px rgba(44,82,100,.75);
+	max-width: 290px;
+	margin-top:-260px;
+	margin-left: 330px;
+	padding:15px;
+	text-decoration: none;
+	line-height: 22px;
+	font-family: verdana,Arial,sans-serif;
+	font-size: 1.2em;
+	background-color: rgb(255,255,255);
+	
+}
+#skill {
+	background-color:rgb(255,255,255);
+	border:3px solid rgb(75,75,75);
+	box-shadow: 0 0 15px 5px rgba(44,82,100,.75);
+	max-width: 320px;
+	padding-bottom: 40px;
+	margin-left:660px;
+	margin-top: -260px;
+	padding-left: 20px;
+	max-height: 260px;
+	line-height: 25px;
+	font-family: verdana,Arial,sans-serif;
+	font-size: 1.2em;
+}
+#skill h1 {
+	color: #6A94CC;
+}
+
+#education h1 {
+	color:#6A94CC;
+}
+
+#country {
+background-color: rgb(255,255,255);
+border: 3px solid rgb(75,75,75);
+box-shadow: 0 0 15px 5px rgba(44,82,100,.75);
+max-width: 260px;
+margin-top: 20px;
+margin-left: 30px;
+margin-right: auto;
+padding: 15px;
+line-height: 22px;
+font-family: verdana,Arial,sans-serif;
+font-size: 1.2em;
+
+}
+
+* {
+	box-sizing: border-box;
+}
+#country h1 {
+	color: #6A94CC;
+	font-size: 2em;
+
+}
